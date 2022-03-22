@@ -1,0 +1,3 @@
+[submodule "deps/math_lib2"]
+	path = deps/math_lib2
+	url = https://github.com/furujin0/math_lib.git
